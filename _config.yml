@@ -1,0 +1,12 @@
+# Site settings
+title: Voo!
+email: 
+description: "Voo Instant Messenger"
+baseurl: ""
+url: "http://voo.im/"
+twitter_username: 
+github_username: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
